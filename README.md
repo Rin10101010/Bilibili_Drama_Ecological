@@ -25,4 +25,4 @@
 - drama_pretreat.ipynb:清洗数据 
 - drama_analyzes.ipynb:可视化并分析数据
 - Drama_visualization.ipynb：可视化报告  
-<a href=" https://rin10101010.github.io/Bilibili_Drama_Ecological-1-/">下载完整报告</a>
+<a href="https://rin10101010.github.io/Bilibili_Drama_Ecological-1-/">下载完整报告</a>
